@@ -17,6 +17,7 @@ To get the predictions on the testing dataset, please run the FinalSubmission.ip
 folder_path_authentic = "data\\test\\authentic"
 folder_path_copy = "data\\test\\copy-moved\\images"
 folder_path_spliced = "data\\test\\spliced\\images"
+d
 
 After changing the 3 paths, please run all the cells till you get the predictions at the end.
 
