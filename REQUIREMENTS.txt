@@ -1,0 +1,10 @@
+cv2
+pandas
+matplotlib
+PIL
+pickle
+numpy
+sklearn
+keras
+tensorflow
+seaborn
